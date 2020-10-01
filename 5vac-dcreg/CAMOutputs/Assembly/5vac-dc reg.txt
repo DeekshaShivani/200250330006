@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/CROMA/Documents/EAGLE/projects/5vac-dcreg/5vac-dc reg.sch at 9/16/2020 6:15 PM
+
+Qty Value  Device Package Parts          Description                POPULARITY
+1   0.1uf  C2,5-3 C2.5-3  C3             CAPACITOR                  38        
+1   0.33uf C2,5-3 C2.5-3  C2             CAPACITOR                  38        
+1   1000uf C2,5-3 C2.5-3  C1             CAPACITOR                  38        
+1   12vac  JP1E   JP1     I/P            JUMPER                     61        
+4   1N4004 1N4004 DO41-10 D1, D2, D3, D4 DIODE                      82        
+1   5v dc  JP1E   JP1     JP2            JUMPER                     61        
+1   7805T  7805T  TO220H  IC1            Positive VOLTAGE REGULATOR 35        

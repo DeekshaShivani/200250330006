@@ -1,0 +1,9 @@
+Partlist exported from C:/Users/CROMA/OneDrive/Documents/EAGLE/projects/dual power supply/dualpowersupply.sch at 10/1/2020 8:30 AM
+
+Qty Value       Device Package Parts          Description                POPULARITY
+1               7905T  TO220H  IC2            Negative VOLTAGE REGULATOR 0         
+4               C2,5-3 C2.5-3  C1, C2, C3, C4 CAPACITOR                  38        
+1   -5v_GND_+5V JP2W   JP2W    JP2            JUMPER                     4         
+1   12VAC       JP2W   JP2W    JP1            JUMPER                     4         
+4   1N4004      1N4004 DO41-10 D1, D2, D3, D4 DIODE                      82        
+1   7805T       7805T  TO220H  IC1            Positive VOLTAGE REGULATOR 35        
